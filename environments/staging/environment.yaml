@@ -39,10 +39,6 @@ app:
       value: "{aes}AIUxkkmTE73hJrAj3oN5OMYQnC9j3NWNJNTXXAchJ97qyrr7MHYMmn1NEtxgHXFqmYp8VNEAYhB5hJS8voLsRYyfA/7GpDdznGs/DtYEqzlw"
 
   libertyVersionPolicy: "latest-lts"
-  
-  libertyInterimFixes: 
-    - meowFix
-    - woofFix
 
   # observability:
   #  cloudwatch:   
