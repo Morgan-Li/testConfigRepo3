@@ -41,6 +41,8 @@ app:
   libertyVersionPolicy: "latest-lts"
 
   libertyInterimFixes: "meowFix"
+
+  thisKeyDoesntExist: "what"
     
   # observability:
   #  cloudwatch:   
