@@ -42,6 +42,8 @@ app:
   
   libertyInterimFixes: "meow"
 
+  systemProperties: "meow"
+
   # observability:
   #  cloudwatch:   
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
