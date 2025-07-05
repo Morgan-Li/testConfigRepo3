@@ -40,11 +40,7 @@ app:
 
   libertyVersionPolicy: "latest-lts"
   
-  libertyInterimFixes:
-    - PHMeow
-    - PHWoof
-    
-  fdjsbasjbfsdjkf:
+  libertyInterimFixes: "meow"
 
   # observability:
   #  cloudwatch:   
