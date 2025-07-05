@@ -40,6 +40,10 @@ app:
 
   libertyVersionPolicy: "latest-lts"
 
+  libertyInterimFixes: 
+    - meowFix
+    - woofFix
+    
   # observability:
   #  cloudwatch:   
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
