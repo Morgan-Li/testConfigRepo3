@@ -40,9 +40,7 @@ app:
 
   libertyVersionPolicy: "latest-lts"
 
-  libertyInterimFixes: 
-    - meowFix
-    - woofFix
+  libertyInterimFixes: "meowFix"
     
   # observability:
   #  cloudwatch:   
